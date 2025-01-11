@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "For my complete CV, download the pdf.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -389,8 +389,8 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-happy-new-year",
-          title: 'Happy New Year!',
+    },{id: "news-happy-new-year-champagne",
+          title: 'Happy New Year! :champagne:',
           description: "",
           section: "News",},{id: "news-the-day-i-published-this-site-sparkles-smile",
           title: 'The day I published this site! :sparkles: :smile:',
