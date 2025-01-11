@@ -2,96 +2,105 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Gerben Koopman
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th April 2000
     - name: Languages
-      value: English, German
+      value: Dutch, English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc in Artificial Intelligence
+      institution: University of Amsterdam, Amsterdam, Netherlands
+      year: 2024 - 2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Foundation Models
+        - Mecahnistic Interpretability
+        - Geometric Deep Learning
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - TBD
+    - title: MSc in Mathematics
+      institution: University of Amsterdam, Amsterdam, Netherlands
+      year: 2024 - 2026
       description:
-        - Description 1.
-        - Description 2.
+        - Algebraic Geoemetry
+        - Algebraic Topology
+        - Machine Learning Theory
+        - title: Thesis
+          contents:
+            - TBD
+    - title: BSc in Mathematics
+      institution: University of Amsterdam, Amsterdam, Netherlands
+      year: 2019 - 2024
+      description:
+        - Galois Theory
+        - Representation Theory
+        - Differential Geometry
+        - Modules and Categories
+        - title: Thesis
+          contents:
+            - Classification of Elliptic Curves
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Waiter
+      institution: Koffieschenkerij, Amsterdam, Netherlands
+      year: 2022 - 2024
+    - title: Personal Assistant Teacher (Persoonlijk Assistent Leraar)
+      institution: St. Michaël College, Zaandam, Netherlands
+      year: 2019 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching and mentoring groups of up to 12 students, ages ranging between 12 to 18 years old. Including the AZ Alkmaar student athlete cohort.
+    - title: Intern
+      instiution: WoIP
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Visiting customers to diagnose and resolve IT-related issues. As well as in-house hardware and software maintenance.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Thesis
+#   contents:
+#     - Classification of Elliptic Curves
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - title: Best Delegate TLVMUN
+          contents:
+            - For essential and valuable contributions to the debate in Crisis at the Model United Nations Tel Aviv.
+        - title: Lagerhuis Provincial Preliminaries
+          contents:
+            - Op Weg naar het Lagerhuis is the biggest debating competition in the Netherlands counting more than 200 participating schools.
+    - year: 2017
       items:
-        - Max Planck Medal
+        - title: Half-Termly Award
+          contents:
+            - For excellence in Mathematics and Physics.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Specialty Coffees, Reading, Board Games, Wine Tasting and Elegant Algebra.

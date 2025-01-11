@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy New Year!
+Happy New Year! :champagne:

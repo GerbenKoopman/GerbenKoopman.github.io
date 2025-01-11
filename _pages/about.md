@@ -18,4 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+This website is a work in progress. Blog posts, projects and other details will be added over time.
+
 Enthusiastic artificial intelligence student with a strong focus on the intersection of mathematics and artificial intelligence. Especially interested in applying algebra and geometry to optimize and regularize machine learning models, with a keen interest in both application and theory. Eager to contribute my expertise in mathematics to solve complex data challenges.
