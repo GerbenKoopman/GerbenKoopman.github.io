@@ -46,6 +46,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: AI Consultant
+      institution: Generation-C, Amsterdam, Netherlands
+      year: 2025 - Current
     - title: Waiter
       institution: Koffieschenkerij, Amsterdam, Netherlands
       year: 2022 - 2024
@@ -54,11 +57,11 @@
       year: 2019 - 2022
       description:
         - Teaching and mentoring groups of up to 12 students, ages ranging between 12 to 18 years old. Including the AZ Alkmaar student athlete cohort.
-    - title: Intern
-      instiution: WoIP
-      year: 2015
-      description:
-        - Visiting customers to diagnose and resolve IT-related issues. As well as in-house hardware and software maintenance.
+    # - title: Intern
+    #   instiution: WoIP
+    #   year: 2015
+    #   description:
+    #     - Visiting customers to diagnose and resolve IT-related issues. As well as in-house hardware and software maintenance.
 
 # - title: Open Source Projects
 #   type: time_table
