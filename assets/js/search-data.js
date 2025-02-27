@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-happy-new-year-champagne",
+        },{id: "post-how-is-symmetry-used-in-artificial-intelligence",
+      
+        title: "How is symmetry used in Artificial Intelligence?",
+      
+      description: "Group Theory and Equivarience in AI.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/mi/";
+        
+      },
+    },{id: "news-happy-new-year-champagne",
           title: 'Happy New Year! :champagne:',
           description: "",
           section: "News",},{id: "news-the-day-i-published-this-site-sparkles-smile",
