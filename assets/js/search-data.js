@@ -65,18 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-how-is-symmetry-used-in-artificial-intelligence",
-      
-        title: "How is symmetry used in Artificial Intelligence?",
-      
-      description: "Group Theory and Equivarience in AI.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/mi/";
-        
-      },
-    },{id: "post-a-post-with-image-galleries",
+            },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
