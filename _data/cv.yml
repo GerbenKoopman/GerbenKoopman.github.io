@@ -46,6 +46,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Founder
+      institution: Koopman AI Technologies, Amsterdam, Netherlands
+      year: 2025 - Current
+      description:
+        - Developing and deploying AI solutions for small and medium-sized enterprises.
     - title: AI Consultant
       institution: Generation-C, Amsterdam, Netherlands
       year: 2025 - Current
@@ -73,6 +78,15 @@
 # - title: Thesis
 #   contents:
 #     - Classification of Elliptic Curves
+
+- title: Projects
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - title: "AI4Math: LLM driven hierarchical reinforcement learning for LEAN"
+          contents:
+            - Developing a model to generate proofs in Lean.
 
 - title: Honors and Awards
   type: time_table
