@@ -37,18 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-geometry-in-deep-learning-a-primer-on-groups-and-representations",
-      
-        title: "Geometry in Deep Learning: A Primer on Groups and Representations",
-      
-      description: "An introduction to the role of geometry, group theory, and representation theory in modern deep learning.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/geometry-in-deep-learning/";
-        
-      },
-    },{id: "news-happy-new-year-champagne",
+        },{id: "news-happy-new-year-champagne",
           title: 'Happy New Year! :champagne:',
           description: "",
           section: "News",},{id: "news-the-day-i-published-this-site-sparkles-smile",
