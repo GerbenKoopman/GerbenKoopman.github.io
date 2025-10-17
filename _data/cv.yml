@@ -16,8 +16,8 @@
       year: 2024 - 2026
       description:
         - Foundation Models
-        - Mecahnistic Interpretability
-        - Geometric Deep Learning
+        - Deep Learning 4 Natural Language Programming
+        - Deep Learning 2
         - title: Thesis
           contents:
             - TBD
@@ -25,8 +25,8 @@
       institution: University of Amsterdam, Amsterdam, Netherlands
       year: 2024 - 2026
       description:
-        - Algebraic Geoemetry
-        - Algebraic Topology
+        # - Algebraic Geoemetry
+        # - Algebraic Topology
         - Machine Learning Theory
         - title: Thesis
           contents:
